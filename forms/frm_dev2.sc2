@@ -21,17 +21,17 @@ DEFINE CLASS form1 AS form
  	*< CLASSDATA: Baseclass="form" Timestamp="" Scale="" Uniqueid="" />
 
 	*-- OBJECTDATA items order determines ZOrder / El orden de los items OBJECTDATA determina el ZOrder 
-	*< OBJECTDATA: ObjPath="Command1" UniqueID="" Timestamp="" />
+	*< OBJECTDATA: ObjPath="cmd_Mensaje" UniqueID="" Timestamp="" />
 
 	Caption = "Form1"
 	DoCreate = .T.
 	Name = "Form1"
 
-	ADD OBJECT 'Command1' AS commandbutton WITH ;
-		Caption = "Command1", ;
+	ADD OBJECT 'cmd_Mensaje' AS commandbutton WITH ;
+		Caption = "Mensaje", ;
 		Height = 27, ;
 		Left = 24, ;
-		Name = "Command1", ;
+		Name = "cmd_Mensaje", ;
 		Top = 20, ;
 		Width = 84
 		*< END OBJECT: BaseClass="commandbutton" />
