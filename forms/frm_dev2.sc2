@@ -35,5 +35,10 @@ DEFINE CLASS form1 AS form
 		Top = 20, ;
 		Width = 84
 		*< END OBJECT: BaseClass="commandbutton" />
+	
+	PROCEDURE cmd_Mensaje.Click
+		MESSAGEBOX( SYS(0), 64 )
+		
+	ENDPROC
 
 ENDDEFINE
