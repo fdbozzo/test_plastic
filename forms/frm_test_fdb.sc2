@@ -816,6 +816,11 @@ DEFINE CLASS frm_test_fdb AS form
 		
 	ENDPROC
 
+	PROCEDURE cmd_Msg.Click
+		MESSAGEBOX( SYS(0) , 64 )
+		
+	ENDPROC
+
 	PROCEDURE pgfPaginas.pagAntonioMeza.Activate
 		this.BackColor=RGB(221,226,222)
 		Thisform.buttoncontrol()
