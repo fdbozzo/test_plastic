@@ -1,0 +1,79 @@
+2014-08-18T20:52:21  Usando archivo de configuración: C:\DESA\PLASTIC\FOXBIN2PRG.CFG
+2014-08-18T20:52:21  FOXBIN2PRG.CFG > tcDebug:                 1
+2014-08-18T20:52:21  ---
+2014-08-18T20:52:21  > l_ShowProgress:          .F.
+2014-08-18T20:52:21  > l_ShowErrors:            .F.
+2014-08-18T20:52:21  > l_Recompile:             .T. (1)
+2014-08-18T20:52:21  > l_NoTimestamps:          .T.
+2014-08-18T20:52:21  > l_ClearUniqueID:         .T.
+2014-08-18T20:52:21  > l_Debug:                 .T.
+2014-08-18T20:52:21  > n_ExtraBackupLevels:     1
+2014-08-18T20:52:21  > l_OptimizeByFilestamp:   .F.
+2014-08-18T20:52:21  > l_DropNullCharsFromCode: .T.
+2014-08-18T20:52:21  > l_CFG_CachedAccess:     .F. ( InputFile=, CFG=C:\DESA\PLASTIC\foxbin2prg.cfg )
+2014-08-18T20:52:24  ---
+2014-08-18T20:52:24  > l_ShowProgress:          .F.
+2014-08-18T20:52:24  > l_ShowErrors:            .F.
+2014-08-18T20:52:24  > l_Recompile:             .T. (1)
+2014-08-18T20:52:24  > l_NoTimestamps:          .T.
+2014-08-18T20:52:24  > l_ClearUniqueID:         .T.
+2014-08-18T20:52:24  > l_Debug:                 .T.
+2014-08-18T20:52:24  > n_ExtraBackupLevels:     1
+2014-08-18T20:52:24  > l_OptimizeByFilestamp:   .F.
+2014-08-18T20:52:24  > l_DropNullCharsFromCode: .T.
+2014-08-18T20:52:24  > l_CFG_CachedAccess:     .F. ( InputFile=c:\DESA\dvcs_vfp9\forms\frm_test_fdb.sct, CFG=C:\DESA\DVCS_VFP9\FORMS\foxbin2prg.cfg )
+2014-08-18T20:52:24  ---
+2014-08-18T20:52:24  > l_ShowProgress:          .F.
+2014-08-18T20:52:24  > l_ShowErrors:            .F.
+2014-08-18T20:52:24  > l_Recompile:             .T. (1)
+2014-08-18T20:52:24  > l_NoTimestamps:          .T.
+2014-08-18T20:52:24  > l_ClearUniqueID:         .T.
+2014-08-18T20:52:24  > l_Debug:                 .T.
+2014-08-18T20:52:24  > n_ExtraBackupLevels:     1
+2014-08-18T20:52:24  > l_OptimizeByFilestamp:   .F.
+2014-08-18T20:52:24  > l_DropNullCharsFromCode: .T.
+2014-08-18T20:52:24  > l_CFG_CachedAccess:     .F. ( InputFile=c:\DESA\dvcs_vfp9\forms\frm_test_fdb.scx, CFG=C:\DESA\DVCS_VFP9\FORMS\foxbin2prg.cfg )
+2014-08-18T20:52:24  ---
+2014-08-18T20:52:24  C:\DESA\PLASTIC\FOXBIN2PRG.EXE (1.19.31)
+	tc_InputFile:          c:\DESA\dvcs_vfp9\forms\frm_test_fdb.scx
+	tcType:                
+	tcTextName:            
+	tlGenText:             
+	tcDontShowErrors:      0
+	tcDebug:               
+	tcDontShowProgress:    1
+	toModulo:              
+	toEx:                  
+	tlRelanzarError:       .T.
+	tcOriginalFileName:    
+	tcRecompile:           c:\DESA\dvcs_vfp9
+	tcNoTimestamps:        
+	tcBackupLevels:        .F.
+	tcClearUniqueID:       .F.
+	tcOptimizeByFilestamp: .F.
+
+2014-08-18T20:52:24  ---
+2014-08-18T20:52:24  > l_ShowProgress:          .F.
+2014-08-18T20:52:24  > l_ShowErrors:            .F.
+2014-08-18T20:52:24  > l_Recompile:             .T. (1)
+2014-08-18T20:52:24  > l_NoTimestamps:          .T.
+2014-08-18T20:52:24  > l_ClearUniqueID:         .T.
+2014-08-18T20:52:24  > l_Debug:                 .T.
+2014-08-18T20:52:24  > n_ExtraBackupLevels:     1
+2014-08-18T20:52:24  > l_OptimizeByFilestamp:   .F.
+2014-08-18T20:52:24  > l_DropNullCharsFromCode: .T.
+2014-08-18T20:52:24  > l_CFG_CachedAccess:     .F. ( InputFile=C:\DESA\dvcs_vfp9\forms\frm_test_fdb.scx, CFG=C:\DESA\DVCS_VFP9\FORMS\foxbin2prg.cfg )
+2014-08-18T20:52:24  > c_OriginalFileName:  C:\DESA\dvcs_vfp9\forms\frm_test_fdb.scx
+2014-08-18T20:52:24  Haciendo Backup de: C:\DESA\dvcs_vfp9\forms\frm_test_fdb.SC2
+
+2014-08-18T20:52:24  
+2014-08-18T20:52:24  Convirtiendo archivo C:\DESA\dvcs_vfp9\forms\frm_test_fdb.SC2...
+2014-08-18T20:52:24  * Se ha encontrado el programa de capitalización de nombres [C:\DESA\PLASTIC\filename_caps.exe]
+2014-08-18T20:52:24  - Solicitado capitalizar el archivo [C:\DESA\dvcs_vfp9\forms\frm_test_fdb.SC2]
+2014-08-18T20:52:24  
+- Se usará el archivo de configuración [C:\DESA\PLASTIC\FILENAME_CAPS.CFG]
+- Se encontró la máscara: [filemask=*.*:N.L]
+- El archivo se debe renombrar a [C:\DESA\dvcs_vfp9\forms\frm_test_fdb.sc2]
+  => No se renombrará a [C:\DESA\dvcs_vfp9\forms\frm_test_fdb.sc2] porque ya estaba correcto.
+2014-08-18T20:52:24  --------------------------------------------------------------------------------
+
