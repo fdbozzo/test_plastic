@@ -77,6 +77,7 @@ DEFINE CLASS frm_test_fdb AS form
 	*< OBJECTDATA: ObjPath="cmdPag5" UniqueID="" Timestamp="" />
 	*< OBJECTDATA: ObjPath="cmdPag6" UniqueID="" Timestamp="" />
 	*< OBJECTDATA: ObjPath="cmdPag7" UniqueID="" Timestamp="" />
+	*< OBJECTDATA: ObjPath="cmd_Msg" UniqueID="" Timestamp="" />
 
 	*<DefinedPropArrayMethod>
 		*m: buttoncontrol
@@ -93,6 +94,15 @@ DEFINE CLASS frm_test_fdb AS form
 	Name = "frm_test_fdb"
 	Top = 0
 	Width = 550
+
+	ADD OBJECT 'cmd_Msg' AS commandbutton WITH ;
+		Caption = "Msg", ;
+		Height = 27, ;
+		Left = 80, ;
+		Name = "cmd_Msg", ;
+		Top = 188, ;
+		Width = 84
+		*< END OBJECT: BaseClass="commandbutton" />
 
 	ADD OBJECT 'cmdPag1' AS commandbutton WITH ;
 		Caption = "Pag.1", ;
