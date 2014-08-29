@@ -30,9 +30,9 @@ DEFINE CLASS form1 AS form
 	ADD OBJECT 'cmd_Mensaje' AS commandbutton WITH ;
 		Caption = "Mensaje", ;
 		Height = 27, ;
-		Left = 24, ;
+		Left = 20, ;
 		Name = "cmd_Mensaje", ;
-		Top = 20, ;
+		Top = 36, ;
 		Width = 84
 		*< END OBJECT: BaseClass="commandbutton" />
 	
